@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'restapi-knowledgebase'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3D739355A8734F40A4E53D32597927B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9EE289EE6ED4FC28807E9BB4DB5AC4F }}
