@@ -5,5 +5,5 @@ pydantic==1.8.1
 starlette==0.13.6
 typing-extensions==3.7.4.3
 uvicorn==0.13.4
-flask==2.2.3
-Werkzeug==2.2.2
+flask==2.2.2
+Werkzeug==2.3.7
